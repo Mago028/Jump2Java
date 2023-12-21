@@ -10,4 +10,8 @@ public class HelloWorld {
         System.out.println(b);
         System.out.println("Hello World");
     }
+    //라인 주석
+    /*
+    블록주석
+     */
 }
